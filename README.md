@@ -1,9 +1,6 @@
 # xd
 
 [![build-img]][build-url]
-[![pkg-img]][pkg-url]
-[![reportcard-img]][reportcard-url]
-[![coverage-img]][coverage-url]
 [![version-img]][version-url]
 
 xd is just hexdump with a few parameters.
@@ -51,11 +48,5 @@ $ xd -n=128 -s=256 -f=xd
 
 [build-img]: https://github.com/cristaloleg/xd/workflows/build/badge.svg
 [build-url]: https://github.com/cristaloleg/xd/actions
-[pkg-img]: https://pkg.go.dev/badge/cristaloleg/xd/v5
-[pkg-url]: https://pkg.go.dev/github.com/cristaloleg/xd/v5
-[reportcard-img]: https://goreportcard.com/badge/cristaloleg/xd
-[reportcard-url]: https://goreportcard.com/report/cristaloleg/xd
-[coverage-img]: https://codecov.io/gh/cristaloleg/xd/branch/main/graph/badge.svg
-[coverage-url]: https://codecov.io/gh/cristaloleg/xd
 [version-img]: https://img.shields.io/github/v/release/cristaloleg/xd
 [version-url]: https://github.com/cristaloleg/xd/releases
